@@ -1,4 +1,4 @@
-﻿namespace POO
+﻿namespace POO._02___Pilares_POO
 {
     public abstract class FormaGeometrica
     {

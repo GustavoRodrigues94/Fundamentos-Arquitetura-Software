@@ -1,4 +1,6 @@
-﻿namespace POO
+﻿using POO._02___Pilares_POO;
+
+namespace POO._04___Heranca_x_Composicao
 {
 
     #region Caso 1

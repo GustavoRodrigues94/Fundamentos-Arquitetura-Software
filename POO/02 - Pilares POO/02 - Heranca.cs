@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace POO
+namespace POO._02___Pilares_POO
 {
     public class Funcionario : Pessoa
     {

@@ -1,4 +1,4 @@
-﻿namespace POO
+﻿namespace POO._03___Interface_x_Implementacao
 {
    public interface IRepositorio
    {
