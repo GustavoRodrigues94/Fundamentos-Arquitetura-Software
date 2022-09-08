@@ -1,5 +1,4 @@
-﻿using System;
-using DesignPatterns._01___Creational._1._1___Abstract_Factory;
+﻿using DesignPatterns._01___Creational._1._1___Abstract_Factory;
 
 namespace DesignPatterns
 {
