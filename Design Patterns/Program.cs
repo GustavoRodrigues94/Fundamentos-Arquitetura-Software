@@ -2,6 +2,7 @@
 using DesignPatterns._01___Creational._1._2___Factory_Method;
 using DesignPatterns._01___Creational._1._3___Singleton;
 using DesignPatterns._02___Structural._2._1___Adapter;
+using DesignPatterns._02___Structural._2._2___Facade;
 
 namespace DesignPatterns
 {
@@ -22,6 +23,7 @@ namespace DesignPatterns
                 Console.WriteLine("Structural Patterns");
                 Console.WriteLine("------------------------");
                 Console.WriteLine("4 - Adapter");
+                Console.WriteLine("5 - Facade");
 
                 var opcao = Console.ReadKey();
 
@@ -42,6 +44,9 @@ namespace DesignPatterns
                         break;
                     case '4':
                         ExecucaoAdapter.Executar();
+                        break;
+                    case '5':
+                        ExecucaoFacade.Executar();
                         break;
                 }
 
